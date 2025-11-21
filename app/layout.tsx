@@ -2,12 +2,12 @@ import localFont from 'next/font/local'
 import "./globals.css";
 
 const SuisseIntl = localFont({
-  src: '../fonts/SuisseIntl-Regular.woff2',
+  src: '../fonts/SuisseIntlMono-Regular.woff2',
   variable: '--font-suisse-intl',
 });
 
 const FormaDJR = localFont({
-  src: '../fonts/FormaDJR-Regular.woff2',
+  src: '../fonts/FormaDJRDisplay-Medium.woff2',
   variable: '--font-forma-djr',
 });
 
